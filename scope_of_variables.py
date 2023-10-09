@@ -8,7 +8,7 @@ variable_x = 20
 
 
 def local_variable() -> None:
-    #define local variables
+    # define local variables
     variable_x = 7
     variable_y = 19
 
@@ -19,7 +19,7 @@ def local_variable() -> None:
 
 
 def global_variable() -> None:
-    #call global variables
+    # call global variables
     global variable_x
     variable_y = 15
 
